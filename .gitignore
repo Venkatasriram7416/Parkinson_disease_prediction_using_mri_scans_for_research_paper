@@ -231,3 +231,4 @@ CODE_FILES/**/*.zip
 CODE_FILES/**/*.tar.gz
 Datasets/**/*.zip
 Datasets/**/*.tar.gz
+CODE_FILES.zip
