@@ -1,0 +1,36 @@
+neurocon,T1,RepetitionTime,1.94
+neurocon,T1,TI,1.1
+neurocon,T1,TE,0.00308
+neurocon,T1,Resolution,0.97*0.97*1
+neurocon,T1,Sequence,MPRAGE (IR method)
+,,,
+neurocon,func,RepetitionTime,3.48
+neurocon,func,EchoTime,0.05
+neurocon,func,Manufacturer,Siemens 
+neurocon,func,ManufacturesModelName,Avanto 
+neurocon,func,MagneticFieldStrenth,1.5
+neurocon,func,FlipAngle,90
+neurocon,func,Sequence,Echo Planar
+neurocon,func,Resolution,3.8*3.8*5
+neurocon,func,Instruction,"Think of nothing in particular, but do not fall asleep."
+neurocon,func,TaskDescription,Resting State with no visual stimulus (eyes closed)
+neurocon,func,TaskName,rest
+,,,
+taowu,T1,RepetitionTime,2.53
+taowu,T1,TI,1.1
+taowu,T1,TE,0.00339
+taowu,T1,Resolution,1*1*1
+taowu,T1,Sequence,MPRAGE (IR method)
+,,,
+taowu,func,RepetitionTime,2
+taowu,func,EchoTime,0.05
+taowu,func,Manufacturer,Siemens 
+taowu,func,ManufacturesModelName,Magnetom Trio
+taowu,func,MagneticFieldStrenth,3
+taowu,func,FlipAngle,90
+taowu,func,Sequence,Echo Planar
+taowu,func,Resolution,4*4*5
+taowu,func,Slices,28
+taowu,func,Instruction,"Think of nothing in particular, but do not fall asleep."
+taowu,func,TaskDescription,Resting State with no visual stimulus (eyes closed)
+taowu,func,TaskName,rest
